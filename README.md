@@ -47,7 +47,7 @@ O código segue uma estrutura modular e organizada:
 ## 🚀 Como Rodar o Projeto
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/Casarimdev/AC1-Data-Analysis.git
    ```
 2. Instale as dependências necessárias:
    ```bash
