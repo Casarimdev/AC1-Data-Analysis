@@ -2,7 +2,19 @@
 Repositório criado para fazer a Atividade continua 1 - Análise de Dados
 # 📊 Análise de Dados de Vendas
 
-Este projeto realiza uma análise exploratória de um conjunto de dados fictício sobre vendas de produtos eletrônicos e acessórios. A análise inclui estatísticas descritivas, visualizações gráficas e insights de Business Intelligence (BI) para entender padrões de vendas e comportamento de receita ao longo do tempo.
+Este projeto realiza 4 análises exploratórias de um conjunto de dados fictício sobre vendas de produtos eletrônicos e acessórios. A análise inclui estatísticas descritivas, visualizações gráficas e insights de Business Intelligence (BI) para entender padrões de vendas e comportamento de receita ao longo do tempo.
+
+📊 Análises Realizadas (BI)
+
+O projeto conta com quatro análises BI, cada uma trazendo insights valiosos:
+
+1️⃣ Distribuição da Receita Total – Mostra como a receita está distribuída entre os produtos. Isso ajuda a entender se há uma concentração de receita em poucos itens ou uma distribuição mais equilibrada.
+
+2️⃣ Vendas por Produto – Analisa quais produtos são mais vendidos, permitindo identificar os mais populares e os que podem precisar de estratégias para aumento de vendas.
+
+3️⃣ Receita por Categoria – Compara a receita entre eletrônicos e acessórios, ajudando a entender qual categoria traz mais retorno financeiro.
+
+4️⃣ Tendência de Receita ao Longo do Tempo – Exibe a evolução da receita ao longo dos dias, útil para detectar padrões sazonais ou períodos de queda/aumento nas vendas.
 
 ## 🔍 Objetivo do Projeto
 O objetivo é extrair informações relevantes sobre o desempenho das vendas, identificando tendências, produtos mais vendidos e padrões de receita. Com isso, podemos sugerir estratégias para otimizar as vendas e melhorar a tomada de decisão.
